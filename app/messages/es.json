@@ -1,17 +1,1 @@
-{
-	"nav": {
-		"label": "Principal",
-		"tagline": "> hecho con amor y un poco de código >⩊<",
-		"home": "Inicio",
-		"about": "Acerca de",
-		"contact": "Contacto",
-		"subtitle": {
-			"home": "Actividad reciente",
-			"about": "Sobre mí",
-			"contact": "Contáctame"
-		}
-	},
-	"home": {
-		"title": "Bienvenido a mi portafolio"
-	}
-}
+{}

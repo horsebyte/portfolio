@@ -1,17 +1,1 @@
-{
-	"nav": {
-		"label": "Main",
-		"tagline": "> made with love and a bit of code >⩊<",
-		"home": "Home",
-		"about": "About",
-		"contact": "Contact",
-		"subtitle": {
-			"home": "Recent Activity_",
-			"about": "About Me_",
-			"contact": "Contact Me_"
-		}
-	},
-	"home": {
-		"title": "Welcome to my portfolio"
-	}
-}
+{}
